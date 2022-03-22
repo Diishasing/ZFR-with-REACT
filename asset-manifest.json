@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ZFR-with-REACT/static/css/main.f50813e4.css",
+    "main.js": "/ZFR-with-REACT/static/js/main.10828b4c.js",
+    "index.html": "/ZFR-with-REACT/index.html",
+    "main.f50813e4.css.map": "/ZFR-with-REACT/static/css/main.f50813e4.css.map",
+    "main.10828b4c.js.map": "/ZFR-with-REACT/static/js/main.10828b4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f50813e4.css",
+    "static/js/main.10828b4c.js"
+  ]
+}
